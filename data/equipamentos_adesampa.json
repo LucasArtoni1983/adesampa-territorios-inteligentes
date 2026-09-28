@@ -1,0 +1,497 @@
+[
+  {
+    "id": "teia-taipas",
+    "nome": "Teia Taipas",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Pirituba/Jaraguá",
+    "distrito": "Jaraguá",
+    "zona": "Norte",
+    "endereco": "Av. Fernando Mendes de Almeida, 1400 - Conj. Hab. Brigadeiro Faria Lima",
+    "cep": "02998-050",
+    "latitude": -23.4475,
+    "longitude": -46.7328,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Wi-Fi e Computadores",
+      "Capacitação Empreendedora",
+      "Atendimento ADE SAMPA"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-perus",
+    "nome": "Teia Perus",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Perus",
+    "distrito": "Perus",
+    "zona": "Norte",
+    "endereco": "Rua Bernardo José de Lorena, 133 - Vila Fanton",
+    "cep": "05203-200",
+    "latitude": -23.4058,
+    "longitude": -46.7533,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Salas de Reunião",
+      "Cursos Fábrica de Negócios",
+      "Orientação ao MEI"
+    ],
+    "horario": "Segunda a Sexta, das 08h às 17h"
+  },
+  {
+    "id": "teia-jacana",
+    "nome": "Teia Jaçanã",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Jaçanã/Tremembé",
+    "distrito": "Jaçanã",
+    "zona": "Norte",
+    "endereco": "Rua Francisca Espósito Tonetti, 105 - Jardim Guapira",
+    "cep": "02276-010",
+    "latitude": -23.4611,
+    "longitude": -46.5786,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Acesso à Internet",
+      "Workshops de Gestão",
+      "Cred Sampa"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-casa-verde",
+    "nome": "Teia Casa Verde",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Casa Verde/Cachoeirinha",
+    "distrito": "Casa Verde",
+    "zona": "Norte",
+    "endereco": "Av. Ordem e Progresso, 1001 - Casa Verde",
+    "cep": "02518-130",
+    "latitude": -23.5089,
+    "longitude": -46.6667,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Networking",
+      "Orientação de Crédito",
+      "Formalização MEI"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-itaquera",
+    "nome": "Teia Itaquera",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Itaquera",
+    "distrito": "Itaquera",
+    "zona": "Leste",
+    "endereco": "Rua Augusto Carlos Bauman, 851 - Itaquera",
+    "cep": "08210-590",
+    "latitude": -23.5386,
+    "longitude": -46.4533,
+    "possui_sampa_cast": true,
+    "servicos": [
+      "Coworking Gratuito",
+      "Estúdio Sampa Cast",
+      "Cursos de Audiovisual",
+      "Microcrédito Banco do Povo"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-cidade-tiradentes",
+    "nome": "Teia Cidade Tiradentes",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Cidade Tiradentes",
+    "distrito": "Cidade Tiradentes",
+    "zona": "Leste",
+    "endereco": "Rua Inácio Monteiro, 6900 - Cidade Tiradentes",
+    "cep": "08490-000",
+    "latitude": -23.5939,
+    "longitude": -46.3986,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Inclusão Digital",
+      "Fábrica de Negócios",
+      "Orientação Financeira"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-sao-miguel",
+    "nome": "Teia São Miguel Paulista",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "São Miguel Paulista",
+    "distrito": "São Miguel",
+    "zona": "Leste",
+    "endereco": "Rua Dona Ana Flora Pinheiro de Souza, 76 - Vila Jacuí",
+    "cep": "08060-150",
+    "latitude": -23.4989,
+    "longitude": -46.4411,
+    "possui_sampa_cast": true,
+    "servicos": [
+      "Coworking Gratuito",
+      "Estúdio Sampa Cast",
+      "Mentorias",
+      "Atendimento ao MEI"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-sao-mateus",
+    "nome": "Teia São Mateus",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "São Mateus",
+    "distrito": "São Mateus",
+    "zona": "Leste",
+    "endereco": "Rua Ragueb Chohfi, 1400 - Parque São Rafael",
+    "cep": "08320-390",
+    "latitude": -23.5969,
+    "longitude": -46.4678,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Capacitação Empreendedora",
+      "Salas de Treinamento"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-tres-pontes",
+    "nome": "Teia Três Pontes",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "São Miguel Paulista",
+    "distrito": "Jardim Helena",
+    "zona": "Leste",
+    "endereco": "Rua Albergati Capacelli, 280 - Jardim Três Pontes",
+    "cep": "08191-330",
+    "latitude": -23.4925,
+    "longitude": -46.3867,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Inclusão Produtiva",
+      "Oficinas Práticas"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-heliopolis",
+    "nome": "Teia Heliópolis",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Ipiranga",
+    "distrito": "Sacomã",
+    "zona": "Sul",
+    "endereco": "Estrada das Lágrimas, 2385 - Heliópolis",
+    "cep": "04244-000",
+    "latitude": -23.6192,
+    "longitude": -46.5919,
+    "possui_sampa_cast": true,
+    "servicos": [
+      "Coworking Gratuito",
+      "Estúdio Sampa Cast",
+      "Laboratório Criativo",
+      "Fomento Local"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-parelheiros",
+    "nome": "Teia Parelheiros",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Parelheiros",
+    "distrito": "Parelheiros",
+    "zona": "Sul",
+    "endereco": "Estrada da Colônia, 2500 - Jardim Novo Parelheiros",
+    "cep": "04892-000",
+    "latitude": -23.8286,
+    "longitude": -46.7214,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Apoio ao Ecoturismo",
+      "Agricultura Familiar",
+      "Crédito Rural/MEI"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-grajau",
+    "nome": "Teia Grajaú",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Capela do Socorro",
+    "distrito": "Grajaú",
+    "zona": "Sul",
+    "endereco": "Rua Adolfo Pinheiro, 255 - Grajaú",
+    "cep": "04843-020",
+    "latitude": -23.7547,
+    "longitude": -46.6853,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Networking",
+      "Consultorias de Negócios"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-santo-amaro",
+    "nome": "Teia Santo Amaro",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Santo Amaro",
+    "distrito": "Santo Amaro",
+    "zona": "Sul",
+    "endereco": "Praça Floriano Peixoto, 54 - Santo Amaro",
+    "cep": "04751-030",
+    "latitude": -23.6528,
+    "longitude": -46.7039,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Salas de Reunião",
+      "Posto de Atendimento"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-interlagos",
+    "nome": "Teia Interlagos",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Capela do Socorro",
+    "distrito": "Socorro",
+    "zona": "Sul",
+    "endereco": "Av. Interlagos, 6122 - Jardim Suzana",
+    "cep": "04777-000",
+    "latitude": -23.6975,
+    "longitude": -46.7022,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Workshops",
+      "Microcrédito Orientado"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-butanta",
+    "nome": "Teia Butantã",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Butantã",
+    "distrito": "Butantã",
+    "zona": "Oeste",
+    "endereco": "Rua Ulpiano da Silva, 100 - Jardim Peri Peri",
+    "cep": "05537-010",
+    "latitude": -23.5858,
+    "longitude": -46.7328,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Coworking Gratuito",
+      "Salas de Treinamento",
+      "Inovação Social"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-green-sampa",
+    "nome": "Teia Green Sampa",
+    "tipo": "Rede Teia",
+    "categoria": "Hub de Inovação e Sustentabilidade",
+    "subprefeitura": "Pinheiros",
+    "distrito": "Pinheiros",
+    "zona": "Oeste",
+    "endereco": "Praça Victor Civita - Rua Sumidouro, 580 - Pinheiros",
+    "cep": "05428-010",
+    "latitude": -23.5686,
+    "longitude": -46.6989,
+    "possui_sampa_cast": true,
+    "servicos": [
+      "Hub de Cleantechs",
+      "Estúdio Sampa Cast",
+      "Aceleração de Negócios Verdes",
+      "Eventos Globais"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-lapa",
+    "nome": "Teia Lapa",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Lapa",
+    "distrito": "Lapa",
+    "zona": "Oeste",
+    "endereco": "Rua Guaicurus, 1000 - Lapa",
+    "cep": "05033-002",
+    "latitude": -23.5208,
+    "longitude": -46.6917,
+    "possui_sampa_cast": true,
+    "servicos": [
+      "Coworking Gratuito",
+      "Estúdio Sampa Cast",
+      "Economia Criativa"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "teia-centro-vergueiro",
+    "nome": "Teia Centro Vergueiro",
+    "tipo": "Rede Teia",
+    "categoria": "Coworking Público",
+    "subprefeitura": "Sé",
+    "distrito": "Liberdade",
+    "zona": "Centro",
+    "endereco": "Rua Vergueiro, 1000 - Centro Cultural São Paulo",
+    "cep": "01504-000",
+    "latitude": -23.5714,
+    "longitude": -46.6408,
+    "possui_sampa_cast": true,
+    "servicos": [
+      "Coworking Gratuito",
+      "Estúdio Sampa Cast",
+      "Networking Central",
+      "Aceleração"
+    ],
+    "horario": "Terça a Domingo, das 10h às 19h"
+  },
+  {
+    "id": "fablab-cidade-tiradentes",
+    "nome": "FabLab Livre SP - Cidade Tiradentes",
+    "tipo": "FabLab Livre",
+    "categoria": "Fabricação Digital e Prototipagem",
+    "subprefeitura": "Cidade Tiradentes",
+    "distrito": "Cidade Tiradentes",
+    "zona": "Leste",
+    "endereco": "Rua B缺失, 10 - Cidade Tiradentes (CFCCT)",
+    "cep": "08474-000",
+    "latitude": -23.5894,
+    "longitude": -46.4022,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Impressão 3D Gratuita",
+      "Corte a Laser",
+      "Marcenaria Digital",
+      "Cursos de Prototipagem"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "fablab-heliopolis",
+    "nome": "FabLab Livre SP - Heliópolis",
+    "tipo": "FabLab Livre",
+    "categoria": "Fabricação Digital e Prototipagem",
+    "subprefeitura": "Ipiranga",
+    "distrito": "Sacomã",
+    "zona": "Sul",
+    "endereco": "Estrada das Lágrimas, 2385 - Heliópolis",
+    "cep": "04244-000",
+    "latitude": -23.6195,
+    "longitude": -46.5915,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Impressoras 3D",
+      "Fresadora CNC",
+      "Modelagem 3D",
+      "Oficinas STEAM"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "fablab-olido",
+    "nome": "FabLab Livre SP - Galeria Olido",
+    "tipo": "FabLab Livre",
+    "categoria": "Fabricação Digital e Prototipagem",
+    "subprefeitura": "Sé",
+    "distrito": "República",
+    "zona": "Centro",
+    "endereco": "Av. São João, 473 - Centro Histórico",
+    "cep": "01035-000",
+    "latitude": -23.5436,
+    "longitude": -46.6389,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Impressão 3D",
+      "Eletrônica com Arduino",
+      "Corte a Laser",
+      "Design de Produtos"
+    ],
+    "horario": "Segunda a Sexta, das 10h às 19h"
+  },
+  {
+    "id": "fablab-sao-joaquim",
+    "nome": "FabLab Livre SP - São Joaquim",
+    "tipo": "FabLab Livre",
+    "categoria": "Fabricação Digital e Prototipagem",
+    "subprefeitura": "Sé",
+    "distrito": "Liberdade",
+    "zona": "Centro",
+    "endereco": "Rua Taguá, 130 - Liberdade",
+    "cep": "01508-010",
+    "latitude": -23.5619,
+    "longitude": -46.6381,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Robótica",
+      "Fabricação Digital",
+      "Prototipagem Rápida"
+    ],
+    "horario": "Segunda a Sexta, das 09h às 18h"
+  },
+  {
+    "id": "posto-cate-brasilandia",
+    "nome": "Posto ADE SAMPA / Cate Brasilândia",
+    "tipo": "Posto de Atendimento",
+    "categoria": "Atendimento e Microcrédito",
+    "subprefeitura": "Freguesia/Brasilândia",
+    "distrito": "Brasilândia",
+    "zona": "Norte",
+    "endereco": "Praça Sete Cantos, s/n - Brasilândia",
+    "cep": "02844-000",
+    "latitude": -23.4689,
+    "longitude": -46.6872,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Microcrédito Banco do Povo",
+      "Cred Sampa Fundo de Aval",
+      "Formalização MEI",
+      "Vagas de Emprego"
+    ],
+    "horario": "Segunda a Sexta, das 08h às 17h"
+  },
+  {
+    "id": "posto-cate-cidade-ademar",
+    "nome": "Posto ADE SAMPA / Cate Cidade Ademar",
+    "tipo": "Posto de Atendimento",
+    "categoria": "Atendimento e Microcrédito",
+    "subprefeitura": "Cidade Ademar",
+    "distrito": "Cidade Ademar",
+    "zona": "Sul",
+    "endereco": "Av. Yervant Kissajikian, 416 - Vila Constança",
+    "cep": "04657-000",
+    "latitude": -23.6697,
+    "longitude": -46.6575,
+    "possui_sampa_cast": false,
+    "servicos": [
+      "Microcrédito Produtivo",
+      "Orientação ao Empreendedor",
+      "Cursos de Capacitação"
+    ],
+    "horario": "Segunda a Sexta, das 08h às 17h"
+  }
+]
