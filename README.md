@@ -250,7 +250,7 @@ Em conformidade com a postura de transparência exigida pelo edital:
 
 ### Opção A — Acesso Direto pela Web (Recomendado)
 A aplicação está disponível e publicada na web em:  
-🔗 **[https://adesampa-territorios.streamlit.app](https://adesampa-territorios.streamlit.app)** *(link configurável após publicação)*
+🔗 **[https://adesampa-territorios-inteligentes.streamlit.app/](https://adesampa-territorios-inteligentes.streamlit.app/)** *(link configurável após publicação)*
 
 ---
 
