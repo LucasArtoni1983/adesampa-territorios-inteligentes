@@ -1,0 +1,30 @@
+# Ambientes Virtuais Python
+venv/
+.venv/
+env/
+
+# Caches e Compilações
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDEs e Sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos de Configuração de Agentes e Documentos Internos (Fora do Repositório)
+agentes_universais.md
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.agents/
+.claude/
+Prova Técnica Prática.pdf
+
