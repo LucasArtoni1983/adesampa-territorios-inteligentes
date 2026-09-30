@@ -115,6 +115,29 @@ A solução é composta por:
 - **[IBGE (Censo Demográfico)](https://censo2022.ibge.gov.br/) & [Fundação SEADE](https://repositorio.seade.gov.br/):** Dados populacionais consolidados e projeções socioeconômicas por distrito da capital.
 - **[Portal Oficial da ADE SAMPA](https://adesampa.com.br/):** Programas, serviços e diretrizes de desenvolvimento econômico local.
 
+### 8.1. Dicionário Normativo de Siglas & Acrônimos Oficiais
+
+Para assegurar total transparência à banca avaliadora e eliminar ambiguidades interpretativas, a tabela a seguir detalha todas as siglas e acrônimos utilizados nos painéis, cartões de indicadores e documentação do projeto:
+
+| Sigla / Termo | Nome por Extenso / Significado Oficial | Órgão / Entidade Gestora | Aplicação na Solução |
+| :--- | :--- | :--- | :--- |
+| **ADE SAMPA** | Agência São Paulo de Desenvolvimento | PMSP / SMDET | Agência pública municipal operadora dos equipamentos de fomento e crédito orientado. |
+| **IDF** | Índice de Deserto de Fomento | Formulador da Metodologia / Edital | Indicador sintético (0 a 10) que quantifica a carência territorial de serviços de desenvolvimento econômico. |
+| **PMSP** | Prefeitura do Município de São Paulo | Poder Executivo Municipal | Ente federativo mantenedor das políticas públicas e dos dados abertos municipais. |
+| **SMDET** | Secretaria Municipal de Desenvolvimento Econômico e Trabalho | PMSP | Secretaria municipal à qual a ADE SAMPA é vinculada administrativamente. |
+| **SEADE** | Fundação Sistema Estadual de Análise de Dados | Governo do Estado de SP | Órgão de análise estatística paulista com projeções socioeconômicas e demográficas. |
+| **IBGE** | Instituto Brasileiro de Geografia e Estatística | Governo Federal | Órgão federal responsável pelo Censo Demográfico 2022 e contagem populacional oficial. |
+| **CENSO 2022** | Censo Demográfico Nacional 2022 | IBGE | Levantamento decenal que aferiu a população residente e características domiciliares. |
+| **RAIS** | Relação Anual de Informações Sociais | Ministério do Trabalho e Emprego (MTE) | Registro administrativo de vínculos empregatícios formais e massa salarial por distrito. |
+| **CAGED** | Cadastro Geral de Empregados e Desempregados | Ministério do Trabalho e Emprego (MTE) | Registro mensal de admissões e desligamentos sob o regime da CLT. |
+| **OD METRÔ** | Pesquisa Origem e Destino do Metrô SP | Companhia do Metropolitano / STM-SP | Pesquisa decenal sobre mobilidade, modais e tempos médios de deslocamento pendular. |
+| **GeoSampa** | Mapa Digital Oficial da Cidade de São Paulo | PMSP / SMUL | Infraestrutura de dados espaciais com malha vetorial dos 96 distritos e equipamentos públicos. |
+| **SIRGAS 2000** | Sistema de Referência Geocêntrico para as Américas 2000 | IBGE / Cartografia Oficial | Datum geodésico oficial adotado na projeção cartográfica dos mapas e camadas geoespaciais. |
+| **WCAG 2.1 AA** | Web Content Accessibility Guidelines (Nível AA) | W3C / WAI | Diretrizes internacionais de acessibilidade digital para cores, contrastes e leitores de tela. |
+| **MEI** | Microempreendedor Individual | Receita Federal / Comitê Simples Nacional | Figura jurídica empresarial atendida prioritariamente pelas capacitações e linhas CRED SAMPA. |
+| **Subp. / Subpref.** | Subprefeitura Municipal | PMSP / SMSUB | As 32 divisões administrativas regionais que agrupam os 96 distritos da capital. |
+| **RMSP** | Região Metropolitana de São Paulo | EMPLASA / Governo de SP | Aglomeração urbana de 39 municípios paulistas que polarizam os fluxos metropolitanos. |
+
 ---
 
 ## 9. Indicação de Dados Sintéticos ou Simulados
@@ -250,7 +273,7 @@ Em conformidade com a postura de transparência exigida pelo edital:
 
 ### Opção A — Acesso Direto pela Web (Recomendado)
 A aplicação está disponível e publicada na web em:  
-🔗 **[https://adesampa-territorios-inteligentes.streamlit.app/](https://adesampa-territorios-inteligentes.streamlit.app/)** *(link configurável após publicação)*
+🔗 **[https://adesampa-territorios-inteligentes.streamlit.app](https://adesampa-territorios-inteligentes.streamlit.app)**
 
 ---
 
@@ -275,7 +298,7 @@ Para máxima facilidade da banca avaliadora, o repositório já inclui scripts p
 
 1. **Clonar o Repositório ou descompactar a pasta:**
    ```bash
-   git clone https://github.com/[seu-usuario]/adesampa-territorios-inteligentes.git
+   git clone https://github.com/LucasArtoni1983/adesampa-territorios-inteligentes.git
    cd adesampa-territorios-inteligentes
    ```
 
