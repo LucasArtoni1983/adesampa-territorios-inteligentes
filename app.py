@@ -57,11 +57,15 @@ def carregar_logo_base64(caminho_str: str) -> str:
 
 
 def detectar_ambiente() -> str:
-    """Detecta dinamicamente se o app está rodando na nuvem (Streamlit Community Cloud) ou em máquina local."""
+    """Detecta dinamicamente se o app está rodando na nuvem (AWS / Streamlit Cloud) ou em máquina local."""
     import os
+    if os.getenv("AWS_EXECUTION_ENV") or os.getenv("AWS_REGION") or os.getenv("APP_RUNNER_ENV"):
+        return "Nuvem Corporativa (AWS App Runner)"
     caminho = Path(__file__).resolve().as_posix()
-    if "/mount/src" in caminho or "/app" in caminho or os.getenv("STREAMLIT_SHARING_HOST") or (os.name != "nt" and os.getenv("STREAMLIT_SERVER_HEADLESS") == "true"):
+    if "/mount/src" in caminho or os.getenv("STREAMLIT_SHARING_HOST"):
         return "Nuvem (Streamlit Cloud)"
+    if "/app" in caminho or (os.name != "nt" and os.getenv("STREAMLIT_SERVER_HEADLESS") == "true"):
+        return "Nuvem (Contêiner Docker / AWS)"
     return "Execução Local"
 
 
